@@ -1,0 +1,16 @@
+# hello-world
+public class HasElementInZnak {
+    private String znak;
+    
+    public HasElementInZnak() {
+    }
+
+    public String getZnak() {
+        return znak;
+    }
+
+    public void setZnak(String znak) {
+        this.znak = znak;
+    }
+    
+}
